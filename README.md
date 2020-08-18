@@ -1,4 +1,4 @@
-# Tic tac toe
+# Tic Tac Toe
 ## This is a visual multi-player JavaScript tic-tac-toe game which can be played on the browser.
 <img src="GAMEBOARD.png" alt="GAMEBOARD" width=500px height=250px>
 This is the image of the gameboard.<br/>
