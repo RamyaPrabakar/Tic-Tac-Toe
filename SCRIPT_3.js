@@ -106,7 +106,7 @@ function main(){
     entry_20_div.addEventListener('click',odd_or_even_click,{once : true});
     entry_21_div.addEventListener('click',odd_or_even_click,{once : true});
     entry_22_div.addEventListener('click',odd_or_even_click,{once : true});
-    exit_span.addEventListener('click',function(){window.close();});
+    exit_span.addEventListener('click',function(){close();});
     replay_span.addEventListener('click',function(){location.reload();});
 
 }
