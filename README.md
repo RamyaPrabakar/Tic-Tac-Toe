@@ -1,5 +1,5 @@
 # Tic Tac Toe
-## This is a visual multi-player JavaScript tic-tac-toe game which can be played on the browser.
+## This is a visual multi-player JavaScript tic-tac-toe game which can be played on the browser. To play go to https://ramyaprabakar.github.io/Tic-Tac-Toe/
 <img src="GAMEBOARD.png" alt="GAMEBOARD" width=500px height=250px>
 This is the image of the gameboard.The replay button resets the game and the exit game button closes the page.
 <img src="MOVE_INDICATOR.png" alt="MOVEINDICATOR" width=500px height=250px>
